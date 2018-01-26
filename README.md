@@ -1,2 +1,1 @@
-# SelecionadorDeDatas_JQuery
-Exemplo de um selecionador de datas usando JQuery
+# Exemplo de um selecionador de datas usando JQuery
